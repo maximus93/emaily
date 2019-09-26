@@ -18,6 +18,13 @@ function App() {
         >
           Learn React
         </a>
+
+        <a
+          className="App-link"
+          href="http://localhost:5000/auth/google"
+          >
+          sign in with google
+        </a>
       </header>
     </div>
   );
